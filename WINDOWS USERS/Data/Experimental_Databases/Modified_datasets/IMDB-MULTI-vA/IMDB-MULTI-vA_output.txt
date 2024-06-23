@@ -1,0 +1,11 @@
+Dataset: IMDB-MULTI-vA
+Classes: 3
+Max Vertices: 89
+Max Edges: 1467
+Numb. nAttribs: 1
+Tot. NbGraphs: 1500
+
+NbGraphs per class:
+[c0] 500
+[c1] 500
+[c2] 500
