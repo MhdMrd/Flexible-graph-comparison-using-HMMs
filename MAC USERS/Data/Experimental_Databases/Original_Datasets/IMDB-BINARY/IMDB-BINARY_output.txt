@@ -1,0 +1,9 @@
+Dataset: IMDB-BINARY
+Classes: 2
+Max Vertices: 136
+Max Edges: 1249
+Tot. NbGraphs: 1000
+
+NbGraphs per class:
+[c0] 500
+[c1] 500
