@@ -1,0 +1,6 @@
+gcc -Wall -Wl,--stack,536870912 -o arffGraphs_multi_vL.exe arffGraphs_multi_vL.c
+arffGraphs_multi_vL.exe IMDB-MULTI-vL 1 0.0 100 100.0 Output_IMDB-MULTI-vL_1.txt 0 0 1
+arffGraphs_multi_vL.exe IMDB-MULTI-vL 1 0.0 100 100.0 Output_IMDB-MULTI-vL_2.txt 0 0 2
+arffGraphs_multi_vL.exe IMDB-MULTI-vL 1 0.0 100 100.0 Output_IMDB-MULTI-vL_3.txt 0 0 3
+arffGraphs_multi_vL.exe IMDB-MULTI-vL 1 0.0 100 100.0 Output_IMDB-MULTI-vL_4.txt 0 0 4
+arffGraphs_multi_vL.exe IMDB-MULTI-vL 1 0.0 100 100.0 Output_IMDB-MULTI-vL_5.txt 0 0 5
