@@ -38,5 +38,5 @@ Run WEKA using the resulting '.arff' files to perform classification experiments
 _____________________________________________________________________________
 Execute the file "test.sh" in terminal to obtain the perfect classification results of [1]
 
-[1] Mohammad Mourad Abdoulahi, Sylvain Iloga, "Flexible graph comparison using HMMs" (Under review).
-
+[1] Mohammad Mourad Abdoulahi, Sylvain Iloga, "Flexible graph comparison using HMMs",
+IEEE Access, vol 12, pp. 92988-93009, DOI 10.1109/ACCESS.2024.3415742, July 2024, IEEE.
