@@ -70,4 +70,5 @@ GIN-epsilon (Graph Isomorphism Networks) as classifiers for datasets from the TU
                           The actual default value is 0.01. This default value is also used in [1].    
 
 
-[1] Mohammad Mourad Abdoulahi, Sylvain Iloga, "Flexible graph comparison using HMMs" (Under review).
+[1] Mohammad Mourad Abdoulahi, Sylvain Iloga, "Flexible graph comparison using HMMs",
+IEEE Access, vol 12, pp. 92988-93009, DOI 10.1109/ACCESS.2024.3415742, July 2024, IEEE.
